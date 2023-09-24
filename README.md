@@ -1,16 +1,7 @@
 # to_do_app
 
-A new Flutter project.
+A simple to do app with the add and deletion functionality .
 
-## Getting Started
+## Overview 
+![Screenshot 2023-09-24 142617](https://github.com/Kaabislam/to_do_app/assets/42168364/80513b57-a833-4538-afdc-c110ba2a2c3f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
